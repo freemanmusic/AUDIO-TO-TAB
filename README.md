@@ -1,13 +1,13 @@
 # AUDIO-TO-TAB
 I have created guitar practice software called Audio to Tab.
-I have created guitar practice software called Audio to Tab.
-
-Since this software was created by an amateur, please use it entirely at your own risk.
 
 Update History
 V1.0.1
 Added a master volume to the 2C mixer section.
+4. Added a feature that generates an 8th-note chord-strumming score for acoustic guitar when the PDF export button is clicked.
 Fixed an issue where the entire screen would black out after restarting Windows following V1.0.1 installation.
+
+Since this software was created by an amateur, please use it entirely at your own risk.
 
 Audio to Tab
 What you can do with it
