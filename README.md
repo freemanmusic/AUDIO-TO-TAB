@@ -1,37 +1,33 @@
-# AUDIO-TO-TAB
-I have created guitar practice software called Audio to Tab.
+I have created a guitar practice software called Audio to Tab.
+
+This program was created by an individual, so installation is entirely at your own risk.
 
 Update History
+V1.0.2
+Improved TAB notation to make it easier to play with four fingers, using the 12th fret as the reference point.
+
 V1.0.1
-Added a master volume to the 2C mixer section.
-4. Added a feature that generates an 8th-note chord-strumming score for acoustic guitar when the PDF export button is clicked.
-Fixed an issue where the entire screen would black out after restarting Windows following V1.0.1 installation.
+Added a master volume control to the 2C mixer section.
+Added PDF export function: pressing the button generates eighth-note chord strumming sheets for acoustic guitar.
+Fixed an issue where the entire screen would go black after restarting Windows following V1.0.1 installation.
 
-Since this software was created by an amateur, please use it entirely at your own risk.
+What Audio to Tab Can Do
+1. Create guitar TABs from audio files and video files.
+2. Supports a wide range of guitar tunings. The software will suggest suitable tuning options when generating TABs, though accuracy may vary.
+3. Automatically separates audio into individual tracks once a file is loaded.
+4. Select which tracks to include in the TAB, such as guitar only or all parts.
+5. For guitar TABs, choose to display parts split by left/right channels, split by high/low pitches, or unsplit.
+6. The 2C mixer lets you adjust the volume of each separated track.
+7. Adjust playback speed without changing pitch; includes AB repeat function to support ear training practice.
+8. Export your adjusted mix as a WAV file with all volume settings applied.
+9. Remove vocals to create karaoke versions, or remove guitar tracks to create guitar-less backing tracks.
+10. Analyze audio and generate TABs: select Guitar Pro, MIDI, or Text TAB format, specify your preferred save location, and the software will automatically create folders and save your files.
+11. Chord names are displayed above each measure.
+12. Generate power chord charts independently of full transcription results.
 
-Audio to Tab
-What you can do with it
+Additional Notes
+Please note that the AI transcription accuracy is still under development, so you may still need to rely on ear training. I hope this tool will serve as a helpful starting point and source of inspiration for your transcriptions.
+I sincerely hope this software becomes a trusted companion on your musical journey!
 
-Please understand that I cannot speak English, so I am using a translation tool.
+From Freeman Music
 
-１．You can create TAB sheets from audio files and video files.
-２．It supports a wide variety of guitar tunings.（When creating TAB sheets, it suggests possible tunings to some extent.）
-３．When a file is loaded, the audio is separated into individual parts.
-４．You can choose which parts to convert into TAB, such as guitar only or all parts.
-５．For guitar TABs, you can choose to split the parts into left and right, split them into high and low notes, or leave them unsplit.
-６．The mixer in section 2c allows you to adjust the volume of each separated part.
-７．Playback features include slowing down or speeding up without changing the pitch, as well as an AB repeat function, to help you practice figuring out songs by ear.
-８．The Export Mix to Wav button outputs the audio source with the volume of each part adjusted.
-９．The Vocal Removal button lets you create karaoke tracks, while the Guitar Removal button lets you create guitar karaoke tracks.1
-１０．Click the Create TAB Sheet button to analyze the audio, then click the button for Guitar Pro, MidI, or Text TAB.
-　　　Once you specify the desired drive, folders are automatically created and the files are saved.
-１１．Chord names are displayed above each measure.
-１２．Power chord TAB sheets can be created independently of the transcription process.
-
-Additional note
-Since AI transcription accuracy is still quite low, you will need to rely heavily on figuring things out by ear,
-but I hope the transcriptions will provide you with useful hints.
-
-I hope this software will be a great companion for your guitar life!!
-
-Freeman music
