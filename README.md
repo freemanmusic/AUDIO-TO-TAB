@@ -6,6 +6,7 @@ Update History
 V1.0.2
 Improved TAB notation to make it easier to play with four fingers, using the 12th fret as the reference point.
 
+Update History
 V1.0.1
 Added a master volume control to the 2C mixer section.
 Added PDF export function: pressing the button generates eighth-note chord strumming sheets for acoustic guitar.
